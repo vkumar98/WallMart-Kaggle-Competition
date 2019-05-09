@@ -1,0 +1,9 @@
+
+This project is proposed from Walmart’s competition at Kaggle: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather
+
+The following tools were used to build this model.
+-	Anaconda3-5.2, with Python 3 on Jupyter notebook.
+-	Scikit-learn, Numpy, Pandas tools for data preprocessing.
+-	Matplotlib and seaborn for data visualization.
+-	Scikit-learn ensemble algorithm – Random Forest Regressor.
+-	Scikit-learn Decision Tree Regressor
